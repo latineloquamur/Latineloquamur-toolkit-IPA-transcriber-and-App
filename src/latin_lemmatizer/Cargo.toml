@@ -1,0 +1,12 @@
+[package]
+name = "latin_lemmatizer"
+version = "0.1.0"
+authors = ["HIDDEN FOR REVIEW"] 
+edition = "2020"
+description = "Tools for building and using lemmatizers"
+
+[dependencies]
+latin_utilities = { version = "0.1.0", path = "../latin_utilities"}
+
+[dev-dependencies]
+clap = "2.33"
