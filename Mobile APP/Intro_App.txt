@@ -1,0 +1,50 @@
+INTRO (Online Version)
+
+DE RATIONE EFFERENDI VERBA LATINA  [author A]
+
+Sermo Latinus est lingua flexiva Indoeuropaea, qua pars incolarum paeninsulae Italicae usi sunt circa ex sexto saeculo ante Christum natum. Etiamsi lingua mortua appelari solet, usus huius sermonis usque ad tempora hodierna continuo ab antiquitate extenditur. Italia Langobardis capta et Romano Imperio Occidentali everso, sermo Latinus mansit ut lingua publica academicaque multarum civitatum Europaearum et lingua quotidiana liturgicaque Ecclesiae Catholicae Romanae. Propter hunc diuturnum usum per totum orbem terrarum, lingua Latina pronuntiata est varie, secundum usus nationum et diversarum institutionum. 
+
+Abecedarium 
+Litterae apud Romanos viginti tres sunt. Littera quae per se vocem edit vocalis dicitur. Consonans est littera quae non per se sed una cum vocali sonat.
+ Vocales sunt: A, E, I, O, U, (Y). Inter eas distinguuntur vocales breves (ă, ĕ, ĭ, ŏ, ŭ) et longae (ā, ē, ī, ā, ū). Prisca aetate abecedarium Latinum utebatur littera grandi ‘V’ et littera minuta ‘u’ ad eundem rendendum sonum (exempli gratia ‘VINUM’ et ‘uinum’). Recentiore distinctione inter ‘u’ et ‘v’ inducta, nunc litteram ‘v’ ut consonantem et ‘u’ ut vocalem locutores ecclesiatici solent enuntiare, sed academici, praesertim in regionibus Germanicis et Anglo-Saxonicis, ‘u’ ante vocalem ut semivocalem ‘w’ pronuntiant. Similariter, littera ‘j’, quae vulgo ‘i longa’ dicitur, inducta fuit recentioribus aevis sed ad Romanorum abecedarium non pertinet. Littera ‘y’ inducta est imperiali aetate ut verba Graeca Latine scribere possent. 
+Consonantes sunt: B, C, D, F, G, H, K, L, M, N, P, Q, R, S, T, X, Z. Inter eas, ‘Z’ addita est Augusti aetate, verborum Graecorum significandorum causa.
+
+Enuntiatio Classica vel Restituta
+Nostra aetate lingua Latina praecipue enuntiata est duobus modis. Primus est quem ‘ecclesiasticum’ appellant, quia servatus est a Romana Ecclesia ab aetate senescentis Romani imperii. Alter est dictio quae ‘classica’ vel ‘restituta’ appellatur. Hic vetus enuntiandi modus, qui congruens est sermoni urbani scriptorum classicorum saeculis I-III, susceptus est  a doctis viris recentioribus temporibus, cum philologa doctrina exculta esset.
+Secundum doctissimos viros W. Sidney Allen (1965, Vox Latina, CUP) et J. Morwood (1999, Latin Grammar, OUP) ratio efferendi verba Latina haec est:
+•	‘C’ et ‘g’ semper aspero sono enuntiandae sunt, etiam cum ante vocales vel ‘i’ positae sunt. Ideo sonant ut Anglice ‘cat’ et ‘golf’.
+•	‘Cn’ et ‘gn’ nexus enuntiantur aspere.
+•	‘H’ semper aspirata et sonora est, maxime in initio verborum (e.g. ‘habeo’) et inter vocales (e.g. ‘mihi’). 
+•	‘Q’, quae semper in nexu cum ‘u’ scripta est, sonant ut Anglice ‘quick’ vel Italice ‘quasi’.
+•	‘R’ semper sonat. 
+•	‘S’ enuntianda est mollis ut Anglice ‘sit’.
+•	‘T’ in nexu cum ‘i’ (id est ‘ti’) ante alteram vocalem efferatur plane ut dentalis et sine sibilo.
+•	Consonantes geminae enuntiandae sunt plane et longius.
+•	‘U’ ante consonantem efferenda est ut vocalis (e.g. ‘lumen’); ante vocalem (e.g. ‘uos’) ut semivocalis ‘w’ enuntiata est (e.g. Anglice ‘water’).
+•	‘I’ ante consonantem efferenda est ut vocalis (e.g. ‘id’); ante vocalem (e.g. ‘ianua’) ut semivocalis ‘j’ enuntiata est (id est ut Anglice ‘y’).
+•	‘Y’ efferenda est ut Gallice ‘u’ et Germanice ‘ü’.
+•	Diphtongi (ae, au, oe, eu, ui, yi) seiunctim enuntiantur et ambae vocales plane sonant.
+•	Vocales longae sonant longiores quam breves.
+
+Enuntiatio Ecclesiastica [author B]
+Enuntiandae linguae Latinae modus, quem Ecclesia Romana tenet, in pauca potest conferri. 
+•	Vocales pleno sono vocis efferuntur. 
+•	Diphthongi ‘ae’ et ‘oe’ ut Italice ‘e’ enuntiantur; tamen, in Graecis vocibus, seiunctim solent efferri: ‘a-er’, ‘po-eta’.
+•	Diphthongi au, eu, ei, ui eundem sonum habent, qui in lingua Italica obtinet.
+•	Littera ‘y’ ut Italice ‘i’ effertur.
+•	Nullus locus est semivocali ‘u’ (v): haec enim consonantis vim (v) accepit. 
+•	Littera ‘i’ manet semivocalis ante vocalem in initio verbi (e.g. ‘jam’) et inter vocales (e.g. ‘ajo’), exceptis nomínibus Graecis (e.g. ‘iambus’).
+•	Neque vocales neque consonantes aspirantur. 
+•	Nexus ‘ti’ ante vocales cum sibilo editur (e.g. ‘otium’: *’otsium’) tamen si in vocali longa, quae t litteram proxime subsequitur, residet accentus vel eidem ‘t’ praepositae sunt litterae ‘t, s, x’ plerumque ut littera dentalis enuntiatur: ‘Bruttii’ (non *’Bruttsii’), ‘mixtio’ (non *’mixtsio’); idem valet de Graecorum verborum translitteratione: e.g. ‘Boeotia’.
+•	‘c’ et ‘g’ ante vocales ‘e’ vel ‘i’ non sono aspero eduntur, sed eodem modo, qui proprius est Italorum cum dicunt ‘cera, cielo, gelo, gita’.
+•	Nexus ‘gn’ eodem modo effertur, qui in lingua Italica obtinet (e.g. ‘gnocchi’).
+•	Litterae ‘s’, in verborum initio positae, sonus asper est proprius.
+•	‘z’ suave quiddam sonat, ut in lingua Italica (e.g. ‘zaino’).
+•	‘Th’ ante vocales sonum dentalem servat: ‘Corinthii’ enuntiatur ‘Corintii’, non *’Corintsii’.
+•	‘Ph’ legitur ‘f’.
+
+Accentus 
+Verbum Latinum dividitur in syllabas: syllabae vero sunt longae aut breves. Vocalis longa lineola recta (e.g. ā) signatur, brevis vero semicirculo (e.g. ă). 
+Accentus in prisco sermone Latino a quibusdam doctis viris resedisse putatur in prima verborum syllaba, sicut mos fuit apud Indo-Europaeos. In Latinitate classica fuit melodicus, id est canebatur altiore nota: apud nos viget consuetudo exprimendi accentum intentiore vocis sono. 
+Labente tempore invaluit pernota ‘lex paenultimae syllabae’, ex qua accentus ponitur in paenultima syllaba, quandocumque est longa; recedit in tertiam syllabam a postrema, si paenultima est brevis.
+
