@@ -1,6 +1,6 @@
 INTRO (Online Version)
 
-DE RATIONE EFFERENDI VERBA LATINA  [author A]
+DE RATIONE EFFERENDI VERBA LATINA 
 
 Sermo Latinus est lingua flexiva Indoeuropaea, qua pars incolarum paeninsulae Italicae usi sunt circa ex sexto saeculo ante Christum natum. Etiamsi lingua mortua appelari solet, usus huius sermonis usque ad tempora hodierna continuo ab antiquitate extenditur. Italia Langobardis capta et Romano Imperio Occidentali everso, sermo Latinus mansit ut lingua publica academicaque multarum civitatum Europaearum et lingua quotidiana liturgicaque Ecclesiae Catholicae Romanae. Propter hunc diuturnum usum per totum orbem terrarum, lingua Latina pronuntiata est varie, secundum usus nationum et diversarum institutionum. 
 
@@ -26,7 +26,7 @@ Secundum doctissimos viros W. Sidney Allen (1965, Vox Latina, CUP) et J. Morwood
 •	Diphtongi (ae, au, oe, eu, ui, yi) seiunctim enuntiantur et ambae vocales plane sonant.
 •	Vocales longae sonant longiores quam breves.
 
-Enuntiatio Ecclesiastica [author B]
+Enuntiatio Ecclesiastica [ex Pavanetto]
 Enuntiandae linguae Latinae modus, quem Ecclesia Romana tenet, in pauca potest conferri. 
 •	Vocales pleno sono vocis efferuntur. 
 •	Diphthongi ‘ae’ et ‘oe’ ut Italice ‘e’ enuntiantur; tamen, in Graecis vocibus, seiunctim solent efferri: ‘a-er’, ‘po-eta’.
