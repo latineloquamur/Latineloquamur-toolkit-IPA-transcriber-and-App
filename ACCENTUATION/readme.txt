@@ -2,7 +2,7 @@
 The aim of this program is to convert a list of latin words (with diacritic marks representing long and short vowels) into a dictionary with each word having its accentuated counterpart in the same line.
  
 # Encoding=utf8
-# Usage: python latin_accenter.py <source csv filename>
+# Usage: python latin_accentuation_code.py <source csv filename>
 # Result: a csv file with lines in format <word>, <accentuated word>.
 
 
