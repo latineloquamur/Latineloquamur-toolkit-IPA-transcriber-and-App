@@ -1,6 +1,6 @@
 
 # encoding=utf8
-# Usage: python latin_accenter.py <source csv filename>
+# Usage: python latin_accentuation_code.py <source csv filename>
 # Result: a csv file with lines in format <word>, <accentuated word>.
 
 import sys, csv
