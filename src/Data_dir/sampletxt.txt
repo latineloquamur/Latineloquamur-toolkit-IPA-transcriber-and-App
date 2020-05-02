@@ -1,5 +1,5 @@
 This folder contains the corpus of Latin literature in txt files organised as 
 Folder: data_dir
              -> sub-folder: Author (e.g. Publius Papinius Statius) 
-                                             ->sub-folder: Silvae.txt
-                                                                     ->sub-folder: Thebais.txt
+                                             ->sub-folder1: Silvae.txt
+                                             ->sub-folder2: Thebais.txt
