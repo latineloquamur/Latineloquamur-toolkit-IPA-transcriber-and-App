@@ -11,7 +11,7 @@ Consonantes sunt: B, C, D, F, G, H, K, L, M, N, P, Q, R, S, T, X, Z. Inter eas, 
 
 Enuntiatio Classica vel Restituta
 Nostra aetate lingua Latina praecipue enuntiata est duobus modis. Primus est quem ‘ecclesiasticum’ appellant, quia servatus est a Romana Ecclesia ab aetate senescentis Romani imperii. Alter est dictio quae ‘classica’ vel ‘restituta’ appellatur. Hic vetus enuntiandi modus, qui congruens est sermoni urbani scriptorum classicorum saeculis I-III, susceptus est  a doctis viris recentioribus temporibus, cum philologa doctrina exculta esset.
-Secundum doctissimos viros W. Sidney Allen (1965, Vox Latina, CUP) et J. Morwood (1999, Latin Grammar, OUP) ratio efferendi verba Latina haec est:
+Secundum doctissimos viros A. Traina & G. Bernardi-Perini (1998, Propedeutica al latino universitario, Pàtron) et R. Oniga (2014, Latin: a linguistic introduction, OUP) ratio efferendi verba Latina haec est:
 •	‘C’ et ‘g’ semper aspero sono enuntiandae sunt, etiam cum ante vocales vel ‘i’ positae sunt. Ideo sonant ut Anglice ‘cat’ et ‘golf’.
 •	‘Cn’ et ‘gn’ nexus enuntiantur aspere.
 •	‘H’ semper aspirata et sonora est, maxime in initio verborum (e.g. ‘habeo’) et inter vocales (e.g. ‘mihi’). 
