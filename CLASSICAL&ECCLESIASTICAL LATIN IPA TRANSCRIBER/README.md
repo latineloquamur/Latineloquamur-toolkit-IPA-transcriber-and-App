@@ -1,6 +1,6 @@
 # IPA Latin
 
-The IPA Latin tool is a simple application designed by [HIDDEN FOR REVIEW] to easily and efficiently compute the IPA phonetic transcription of a given word.
+The IPA Latin tool is a simple application designed by Tommaso Spinelli (Classics) and Giacomo Fenzi (Computer Science) to easily and efficiently compute the IPA phonetic transcription of a given word.
 
 ## Compilation
 In order to compile this tool, [install Rust](https://rustup.rs/), navigate to this directory, open a command window and run the following:  
